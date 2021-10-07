@@ -1,5 +1,7 @@
 # blog-api-jwt
 
+H2 Embedded Database was used
+
 
 ## Postman Preview
 
